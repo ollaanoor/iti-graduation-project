@@ -18,7 +18,7 @@ By creating a secure and user-friendly environment, Siraj aims to:
 - Empower therapists with tools to manage their practice efficiently
 - Provide educational resources to raise mental health awareness
 
-![Siraj Platform Overview](frontend\public\screenshots\siraj-landingPage.png)
+![Siraj Platform Overview](frontend/public/screenshots/siraj-landingPage.png)
 
 ## Features
 
@@ -148,5 +148,5 @@ Check out the demo video: [Siraj Demo Video Link](https://your-demo-url.com)
 <p align="center">
   <img src="frontend\public\siraj_logo.svg" alt="Siraj Logo" width="150"/>
   <br>
-  <i>Siraj - Making mental healthcare accessible for all Egyptians</i>
+  <i>Siraj - Making mental healthcare accessible for everyone</i>
 </p>
